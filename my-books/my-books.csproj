@@ -15,4 +15,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\v2\" />
+    <Folder Include="Controllers\v1\" />
+  </ItemGroup>
+
 </Project>
